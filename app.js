@@ -11,6 +11,8 @@ function mudarCor (){
         cor = '#0000FF';
     } else if (nomeCor == 'amarelo'){
         cor = '#FFFF00';
+    } else if (nomeCor == 'Padrão'){
+        cor = '#FFFFFF';
     }
 
     //document.body.style.backgroundColor = `#${cor}`;
